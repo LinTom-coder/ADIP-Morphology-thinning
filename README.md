@@ -1,6 +1,10 @@
 # ADIP-Morphology-thinning
 This is an assignment from the Advanced Digital Image Processing (ADIP) course, focusing on the development and implementation of image **thinning (skeletonization)**.
 The objective is to strengthen understanding of image quantization and enhance C programming skills through practical image processing tasks.  
+
+---
+
+## 📌 Description
 Thinning is a morphological operation that reduces binary foreground regions to a single-pixel-wide skeleton while preserving the topology of the original shape.
 
 ---
